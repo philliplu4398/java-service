@@ -10,6 +10,11 @@ public class FetchFood{
      System.out.println("Main 3");
      // this is a comment
      System.out.println("New line 3");
+     
+   }
+
+   private void setId(int id){
+    
    }
 
 }
